@@ -8,7 +8,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) paulo.brito3728@gmail.com
 
 ### About me
-I am a technical education student from São Paulo (ETEC) and I am looking to improve my skills in the programming area
+While teaching at the technical school of São Paulo (ETEC) I was asked for a website with some information about a fictitious company created by members of the group.
 
 ## 🛠 Tecnologias
 
