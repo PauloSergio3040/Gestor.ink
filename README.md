@@ -1,5 +1,7 @@
 # Gestor.ink
 
+![preview](https://github.com/PauloSergio3040/Gestor.ink/assets/150617337/66ff41d4-cc11-420f-8f62-384024e25a73)
+
 # Hi, I'm Paulo! :D
 
 ## 🖊 Contato
